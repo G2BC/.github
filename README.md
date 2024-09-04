@@ -1,2 +1,1 @@
-# Site
-- https://g2bc.uneb.br/
+- Esse repositório serve para mostrar informações da organização na página inicial.
